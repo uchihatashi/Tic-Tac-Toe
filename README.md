@@ -57,10 +57,5 @@ You can download the files from below:
 
 [Link here](https://drive.google.com/drive/folders/1Vohofx-tR3v9On11RYbPifH13fmjISdx?usp=share_link ):
 
-## **Submission:**
-
-You need to submit one zip file containing the following three files for evaluation:
-
-- the environment file: 'TCGame\_Env.py'
-- the agent's learning file: 'TicTacToe\_Agent.ipynb'
-- Q-values of the state-action pairs tracked
+## **Download the Trained pkl file below :**
+[link here](https://drive.google.com/file/d/186toRPLf0HhYtdTXRCdkK4RZsOWzAGsg/view?usp=share_link)
